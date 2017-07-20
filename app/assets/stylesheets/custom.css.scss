@@ -19,6 +19,10 @@ $navbar-default-bg: #998b95;
     text-decoration: none;
 }
 
+.nav.navbar-nav li a {
+    color: white;
+}
+
 .center {
     text-align: center;
 }
@@ -59,4 +63,25 @@ $navbar-default-bg: #998b95;
     color: #fff;
     background-color: #7c6d78;
     border-color: #7c6d78; /*set the color you want here*/
+}
+
+footer {
+    margin-top: 45px;
+    padding-top: 5px;
+    border-top: 1px solid #eaeaea;
+    color: #777;
+}
+
+footer small {
+    float: left;
+}
+
+footer ul {
+    float: right;
+    list-style: none;
+}
+
+footer ul li {
+    float: left;
+    margin-left: 15px;
 }
