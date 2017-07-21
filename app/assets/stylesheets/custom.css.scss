@@ -65,6 +65,30 @@ $navbar-default-bg: #998b95;
     border-color: #7c6d78; /*set the color you want here*/
 }
 
+.btn-success {
+    color: #fff;
+    background-color: #8b998f;
+    border-color: #8b998f; /*set the color you want here*/
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #95998b;
+    border-color: #95998b; /*set the color you want here*/
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #aa7a9c;
+    border-color: #aa7a9c; /*set the color you want here*/
+}
+
+.btn-danger:hover {
+    color: #fff;
+    background-color: #b272a0;
+    border-color: #b272a0; /*set the color you want here*/
+}
+
 footer {
     margin-top: 45px;
     padding-top: 5px;
@@ -84,4 +108,9 @@ footer ul {
 footer ul li {
     float: left;
     margin-left: 15px;
+}
+
+.article-actions {
+    border-top: 1px solid #eaeaea;
+    padding-top: 15px;
 }
