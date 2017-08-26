@@ -4,19 +4,23 @@
 
 Rails blog hosting site project using Ruby 2.3, Heroku, PostgreSQL, and Bootstrap
 
+
 ## Prerequisites
 
 What things you need to install the software and how to install them
 * Dev - sqlite3, spring, byebug
 * Prod - pg, rails_12factor, jquery-rails, coffee-rails 4.1.0, bootstrap-sass 3.3.6, rails 4.2.5
 
+
 ## Deployment
 
 Currently deployed in production environment via [Heroku](https://www.heroku.com/home)
 
+
 ## Contributing
 
 I welcome contributions in the form of issues, forked pull requests, or via email wolfetylerb@gmail.com
+
 
 ## Authors
 
@@ -27,8 +31,4 @@ I welcome contributions in the form of issues, forked pull requests, or via emai
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
